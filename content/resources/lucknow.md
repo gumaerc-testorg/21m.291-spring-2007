@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f33c34a5-4fed-7119-b25b-a2dd87029e28
 resourcetype: Document
 title: lucknow.pdf
 uid: 9601110f-412d-fa5b-9e2f-25ccf65fd002

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f33c34a5-4fed-7119-b25b-a2dd87029e28
 resourcetype: Document
 title: mughal.pdf
 uid: 8b0f9991-d96e-e317-2ee5-2e8b9bb93e91

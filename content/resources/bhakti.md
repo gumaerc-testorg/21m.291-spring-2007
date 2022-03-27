@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f33c34a5-4fed-7119-b25b-a2dd87029e28
 resourcetype: Document
 title: bhakti.pdf
 uid: d1efac30-57b7-9684-11f8-e6de59649cfd
