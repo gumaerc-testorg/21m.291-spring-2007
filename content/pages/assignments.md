@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Assignments
 uid: df2859df-4a12-82db-1caf-e75751959614
 ---
 
-Formatting Your Papers ([PDF]({{< baseurl >}}/resources/paper_format))
+Formatting Your Papers ({{% resource_link b483f419-7bc6-feda-1648-45dbdc383ff1 "PDF" %}})
 
 Written Assignments
 -------------------

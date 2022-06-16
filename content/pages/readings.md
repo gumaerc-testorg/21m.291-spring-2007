@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the assigned readings from the textbook and other
+  sources, plus some supplemental materials.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -221,10 +223,10 @@ Mehta, Gita. "A Musician's Story." Chapter 13 in _A River Sutra_. New York, NY: 
 Supplemental Material
 ---------------------
 
-Tabla and its Ancestors ([PDF]({{< baseurl >}}/resources/tabla))
+Tabla and its Ancestors ({{% resource_link db980da8-75d7-3dd6-8b81-8299c10d950e "PDF" %}})
 
-Major Figures of the Bhakti Era ([PDF]({{< baseurl >}}/resources/bhakti))
+Major Figures of the Bhakti Era ({{% resource_link d1efac30-57b7-9684-11f8-e6de59649cfd "PDF" %}})
 
-In and Around the Courts of Lucknow -- Thumri and Classical Dance ([PDF]({{< baseurl >}}/resources/lucknow))
+In and Around the Courts of Lucknow -- Thumri and Classical Dance ({{% resource_link 9601110f-412d-fa5b-9e2f-25ccf65fd002 "PDF" %}})
 
-Mughal Emperors ([PDF]({{< baseurl >}}/resources/mughal))
+Mughal Emperors ({{% resource_link 8b0f9991-d96e-e317-2ee5-2e8b9bb93e91 "PDF" %}})
