@@ -5,6 +5,7 @@ file: /courses/21m-291-music-of-india-spring-2007/8b0f9991d96ee3172ee52e8b9bb93e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mughal.pdf
 uid: 8b0f9991-d96e-e317-2ee5-2e8b9bb93e91
 ---
 This resource contains supplementary material on Mughal emperors.
-

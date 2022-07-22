@@ -6,6 +6,7 @@ file: /courses/21m-291-music-of-india-spring-2007/9601110f412dfa5b9e2f25ccf65fd0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lucknow.pdf
 uid: 9601110f-412d-fa5b-9e2f-25ccf65fd002
 ---
 This resource contains supplementary material on Thumri and classical dance.
-
