@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, exams, and
+  assignments, notes on listening to music, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6b985380-d114-5fbd-90f2-6b08f99f2a2f
 ---
@@ -14,7 +18,7 @@ Textbook
 
 Ruckert, George. _The Classical Music of North India_. New Delhi, India: Munshiram Manoharlal Publishers, 2004. ISBN: 9788121508728.
 
-Additional [readings]({{< baseurl >}}/pages/readings) are also assigned from various sources.
+Additional {{% resource_link f33c34a5-4fed-7119-b25b-a2dd87029e28 "readings" %}} are also assigned from various sources.
 
 Listening to the Music
 ----------------------
