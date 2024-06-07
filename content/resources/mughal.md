@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains supplementary material on Mughal emperors.
 file: /courses/21m-291-music-of-india-spring-2007/8b0f9991d96ee3172ee52e8b9bb93e91_mughal.pdf
+file_size: 18702
 file_type: application/pdf
 learning_resource_types:
 - Readings
