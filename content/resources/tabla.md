@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains supplementary material on the tabla and its ancestors.
-file: /courses/21m-291-music-of-india-spring-2007/db980da875d73dd68b818299c10d950e_tabla.pdf
+file: /ol-ocw-studio-app/courses/21m-291-music-of-india-spring-2007/db980da875d73dd68b818299c10d950e_tabla.pdf
 file_size: 64445
 file_type: application/pdf
 learning_resource_types:
