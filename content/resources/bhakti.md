@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains supplementary material on major figures of the
   Bhakti Era.
-file: /ol-ocw-studio-app/courses/21m-291-music-of-india-spring-2007/d1efac3057b7968411f8e6de59649cfd_bhakti.pdf
+file: /courses/21m-291-music-of-india-spring-2007/d1efac3057b7968411f8e6de59649cfd_bhakti.pdf
 file_size: 14791
 file_type: application/pdf
 learning_resource_types:
