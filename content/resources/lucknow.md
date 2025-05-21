@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains supplementary material on Thumri and classical
   dance.
-file: /ol-ocw-studio-app/courses/21m-291-music-of-india-spring-2007/9601110f412dfa5b9e2f25ccf65fd002_lucknow.pdf
+file: /courses/21m-291-music-of-india-spring-2007/9601110f412dfa5b9e2f25ccf65fd002_lucknow.pdf
 file_size: 21867
 file_type: application/pdf
 learning_resource_types:
