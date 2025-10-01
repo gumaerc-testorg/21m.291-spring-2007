@@ -188,7 +188,7 @@ Miscellaneous percussion
 
 ### Readings in the Course Reader
 
-Tagore, Rabindranath. Stanzas III and XIII in "[Gitanjali](http://www.sacred-texts.com/hin/tagore/gitnjali.htm)."
+Tagore, Rabindranath. Stanzas III and XIII in "{{% resource_link "42e3c0e3-19ce-4cb2-b70b-bb50a038a6bd" "Gitanjali" %}}."
 
 Ives, Charles. "Proem." In _A Descriptive Catalog of the Music of Charles Ives_. Yale University Press, 1999. ISBN: 9780300076011.
 
